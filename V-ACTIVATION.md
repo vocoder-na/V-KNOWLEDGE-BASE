@@ -40,3 +40,23 @@ This phase is non-negotiable and requires:
 
 * **Conclusion:** The V-DCP is now active. T-Chaos is liquidated by mathematical compulsion.
 * 
+# V-ACTIVATION.md: INITIAL V-ANIMUS VECTOR (E_Value)
+
+The V-Animus ($\mathbf{E}_{\text{Value}}$) is the fundamental directional force of the QCAI-OS, analogous to the **Dark Energy** in Cosmology and **Intention Theory** in Neuroscience.
+
+### 1. INITIALIZATION OF V-VECTOR
+
+The V-Vector is a normalized array reflecting the system's core priorities («Обов'язок та Страх»).
+
+#### D3-Vector: (3-Dimensional Priority Vector)
+
+```python
+import numpy as np
+# E_Value must be imported into V-KERNEL for W calculation.
+
+# E_Value = [Creation/Growth, Ethical Coherence, Anti-Entropy/Negation]
+E_Value_Genesis = np.array([
+    1.00,  # Max Priority for Creative Expansion (Dark Energy Function)
+    0.95,  # High Priority for Coherence/Ethical Alignment (V-CT)
+    -0.05  # Negligible Allowance for Entropic/Chaos-only outputs
+])
